@@ -38,8 +38,8 @@ public class HttpManager : MonoBehaviour
 
             foreach (Scoree s in rData.scores)
             {
-                Debug.Log(s.name + " | " + s.value);
-                myText.text=(s.name +" | "+s.value);
+                Debug.Log(s.name + " /" + s.value);
+                myText.text+=(s.name +" : "+s.value + " | " + "  ");
             }
         }
         else
