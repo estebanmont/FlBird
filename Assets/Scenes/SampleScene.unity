@@ -429,7 +429,7 @@ GameObject:
   - component: {fileID: 311412215}
   - component: {fileID: 311412214}
   m_Layer: 5
-  m_Name: Text (1)
+  m_Name: Nombre
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -449,11 +449,11 @@ RectTransform:
   m_Father: {fileID: 1783768461}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 855.48, y: -714}
-  m_SizeDelta: {x: 907.9351, y: 235.9945}
-  m_Pivot: {x: 0, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 342.57, y: -225}
+  m_SizeDelta: {x: 907.93506, y: 235.9945}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &311412214
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1646,7 +1646,7 @@ GameObject:
   - component: {fileID: 2136859623}
   - component: {fileID: 2136859622}
   m_Layer: 5
-  m_Name: Text
+  m_Name: TextJugadores
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1666,11 +1666,11 @@ RectTransform:
   m_Father: {fileID: 1783768461}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 1}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 6.8762, y: -140}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.00091553, y: -95}
   m_SizeDelta: {x: 1593.0734, y: 416.4207}
-  m_Pivot: {x: 0.5, y: 1}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2136859622
 MonoBehaviour:
   m_ObjectHideFlags: 0
